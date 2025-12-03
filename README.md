@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/9Q7uQwU.png" width="100%">
+<img src="https://i.imgur.com/3tjWn8C.png" width="100%">
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00eaff">Mrigank Mathur</span></h1>
 
